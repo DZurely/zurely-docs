@@ -1,47 +1,57 @@
-# Terms of Service (ToS)
 
-<span style="color: gray;">Last updated: February 2026</span>
+**Terms of Service: Double D Sdn Bhd (Zurely)**
 
-### 1. Acceptance of Terms
+<span style="color: gray;">Last Updated: March 2026</span>
+
+**1\. Acceptance of Terms**
+
 By accessing the Zurely platform (the "App"), you agree to be bound by these Terms of Service. If you do not agree, please discontinue use immediately. Double D Sdn Bhd ("we," "us," or "our") reserves the right to update these terms at any time.
 
-### 2. Scope of Service
-Zurely provides a "Stamping Bridge" and digital tenancy management platform. We facilitate:
+**2\. Scope of Service**
 
-- The generation of Tenancy Agreement templates.
-- Digital execution of documents via electronic/digital signatures.
-- The collection and remittance of Stamp Duty to the Inland Revenue Board of Malaysia (LHDN).
+Zurely is a professional digital tenancy workspace. We facilitate:
 
-### 3. No Legal or Tax Advice
-Zurely is not a law firm. The templates provided are for convenience only. We do not provide legal advice or tax planning. Users are encouraged to have their Tenancy Agreements reviewed by a qualified solicitor before execution.
+- **Document Generation**: Providing intelligent templates for tenancy documentation.
+- **Legal Execution**: Facilitating digital signatures in compliance with the **Digital Signature Act 1997** and the **Electronic Commerce Act 2006**.
+- **Compliance Automation**: Facilitating the collection and processing of statutory requirements and mandatory filings to relevant national authorities.
 
-### 4. User Obligations & Accuracy
-You are solely responsible for the accuracy of the data entered (e.g., rental amount, IC numbers, property address).
+**3\. No Legal or Tax Advice**
 
-- **Calculation Errors**: If you enter incorrect data leading to underpaid stamp duty, you are liable for any penalties or additional payments demanded by LHDN.
+Zurely provides a platform for administrative efficiency. We are not a law firm or a tax consultancy. Templates and automated calculations are for convenience only. Users are responsible for ensuring their agreements meet their specific legal needs.
 
-- **Identity**: You must use your real identity. Use of the App for money laundering or fraudulent tenancy creation is strictly prohibited.
+**4\. User Obligations & Accuracy**
 
-### 5. Manual Stamping Process
-You acknowledge that Zurely currently utilizes a manual submission process for LHDN stamping.
+You are solely responsible for the accuracy of all data entered (e.g., rental amounts, identity details, property addresses).
 
-- **Timeline**: While we aim for a [3-5] working day turnaround, we are not liable for delays caused by LHDN system downtime, public holidays, or administrative backlogs at the tax office.
+- **Data Integrity**: Any penalties, underpayments, or legal disputes arising from incorrect user input are the sole responsibility of the user.
+- **Identity Assurance**: You must complete the integrated e-KYC process using your true identity. Use of the platform for fraudulent activity or money laundering is strictly prohibited and will result in immediate termination.
 
-- **Agent Authorization**: By using the Stamping Bridge, you authorize Double D Sdn Bhd and its appointed administrators to act as your agent in submitting documents to the LHDN "MyTax" or "STAMPS" portal.
+**5\. Processing & Submissions**
 
-### 6. Payment & Fees
-Payments are processed via Billplz. You agree to pay the Stamp Duty (calculated based on your input) plus the Zurely Service Fee. Your agreement will not be submitted for stamping until full payment is confirmed.
+By using our compliance features, you authorize Double D Sdn Bhd to act as your service provider in facilitating official filings and documentation processing with relevant statutory bodies.
 
-### 7. Limitation of Liability
+- **Timelines**: While we strive for rapid turnaround, Zurely is not liable for delays caused by third-party system downtimes, public holidays, or administrative backlogs at government offices.
+- **Irrevocability**: Once a digital signature is applied and the "Chain of Trust" is initiated, the document and its associated audit logs are considered final and tamper-proof.
+
+**6\. Payments & Fees**
+
+Payments for statutory filings and Zurely service fees are processed via our authorized payment gateways.
+
+- **Fulfillment**: Documentation will not be submitted for official processing until full payment is confirmed.
+- **Refunds**: Service fees are non-refundable once the digital execution or filing process has been initiated.
+
+**7\. Limitation of Liability**
+
 To the maximum extent permitted by Malaysian law, Double D Sdn Bhd shall not be liable for:
 
 - Indirect, incidental, or consequential damages.
-- Loss of rental income due to delays in agreement execution.
-- Any penalties imposed by LHDN due to user-provided misinformation.
-Our total liability is limited to the amount of the Service Fee paid for the specific transaction in question.
+- Loss of rental income due to processing delays.
+- Any statutory penalties imposed due to user-provided misinformation. Our total liability is strictly limited to the amount of the Service Fee paid for the specific transaction.
 
-### 8. Termination
-We reserve the right to suspend or terminate your account if we suspect fraudulent activity or if you breach these terms.
+**8\. Data Protection & Audit Logs**
 
-### 9. Governing Law
+Your use of the App is subject to our Privacy Policy. You acknowledge that Zurely maintains an **Immutable Audit Log** of all signing events and identity verifications to ensure the legal non-repudiation of your documents.
+
+**9\. Governing Law**
+
 These terms are governed by the laws of Malaysia. Any disputes shall be subject to the exclusive jurisdiction of the Malaysian courts.
